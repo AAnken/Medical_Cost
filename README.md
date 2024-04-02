@@ -17,7 +17,7 @@ Based on the data analysis performed with pandas in python, following correlatio
 ![Age](images/result_1.png)
 - Smokers pay higher charges than non-smokers
 ![smoker](images/result_2.png)
-- Among the smokers, persons with a BMI above 30 pay significant higher charges than persons below a BMI of 30
+- Among the smokers, persons with a BMI above 30 pay significant higher charges than persons below a BMI of 30<br>
 ![BMI](images/result_3.png)<br>
 
 ### Conclusion
