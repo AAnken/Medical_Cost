@@ -12,7 +12,7 @@ The distribution of charges for medical insurance follows an exponential distrib
 
 
 ### Results
-Based on the data analysis performed with pandas in python, following correlations were found in the dataset:
+An exploratory data analysis was performed with pandas in python [DA_medical_cost](./DA_medical_cost.ipynb). Based on the data analysis, following correlations were found in the dataset:
 - The charges increase with the age
 ![Age](images/result_1.png)
 - Smokers pay higher charges than non-smokers
